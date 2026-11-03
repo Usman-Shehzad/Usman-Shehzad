@@ -45,35 +45,24 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Usman-Shehzad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Shehzad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Usman-Shehzad&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Usman-Shehzad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
-
-## 🌆 3D Contribution Graph
+## 🌆 3D Profile
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+    <img alt="3D profile" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </div>
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usman-Shehzad&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%" />
+  <img src="./metrics/github-metrics.svg" alt="GitHub metrics" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Usman-Shehzad&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%" alt="footer" />
