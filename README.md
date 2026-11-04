@@ -20,9 +20,11 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">🛡️ About Me</h2>
+
+<p align="center"><img src="./assets/hero.svg" width="100%" alt="Cybersecurity illustration" /></p>
 
 ```bash
 usman@kali:~$ cat profile.json
@@ -48,7 +50,7 @@ usman@kali:~$ cat profile.json
   <a href="mailto:usmanshehzad617@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">🔐 Core Security Principles</h2>
 
@@ -109,7 +111,7 @@ flowchart LR
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">🧰 Security Toolkit</h2>
 
@@ -178,7 +180,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/CVSS-B71C1C?style=for-the-badge" alt="CVSS" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">🌆 3D Profile</h2>
 
